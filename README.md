@@ -26,7 +26,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
     </a> 
     <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="40" height="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="40" height="40"/>
     </a>
     <a href="https://www.oracle.com/database/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/> 
@@ -35,12 +35,12 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/> 
     </a>
     <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerbi/powerbi-original.svg" alt="Power BI" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" alt="Power BI" width="40" height="40"/>
     </a>
     <a href="https://docs.microsoft.com/en-us/dax/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dax/dax-original.svg" alt="DAX" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/DAX.svg" alt="DAX" width="40" height="40"/>
     </a>
     <a href="https://docs.microsoft.com/en-us/m/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/M_logo_%282019%29.png" alt="M" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/M.svg" alt="M" width="40" height="40"/>
     </a>
 </p>
