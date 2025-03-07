@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samuel Alves</h1>
-<h3 align="center">A passionate Data Analyst and Data Scientist</h3>
+<h3 align="center">A passionate Data Analyst and Data Engineer</h3>
 
 - 🔭 I’m currently studying **Data Analytics and Data Science**
 
@@ -37,11 +37,9 @@
     <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" alt="Power BI" width="40" height="40"/>
     </a>
-    <a href="https://docs.microsoft.com/en-us/dax/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/DAX.svg" alt="DAX" width="40" height="40"/>
-    </a>
-    <a href="https://docs.microsoft.com/en-us/m/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/M.svg" alt="M" width="40" height="40"/>
+    <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/>
     </a>
 </p>
+
 
