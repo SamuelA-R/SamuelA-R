@@ -34,4 +34,13 @@
     <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/> 
     </a>
+    <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerbi/powerbi-original.svg" alt="Power BI" width="40" height="40"/>
+    </a>
+    <a href="https://docs.microsoft.com/en-us/dax/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dax/dax-original.svg" alt="DAX" width="40" height="40"/>
+    </a>
+    <a href="https://docs.microsoft.com/en-us/m/" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/M_logo_%282019%29.png" alt="M" width="40" height="40"/>
+    </a>
 </p>
