@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently studying **Data Analytics and Data Science**
 
-- 📝 I regularly write articles on https://medium.com/@samuelalvesribeiro111
+- 📝 I regularly write articles on Medium
 
-- 📫 How to reach me **https://www.linkedin.com/in/samuel-alves-ribeiro-017960246/**
+- 📫 How to reach me LinkedIn
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,9 +21,7 @@
 <p align="left"> 
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
     </a> 
     <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="40" height="40"/>
@@ -34,6 +32,8 @@
     <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/> 
     </a>
+</p>
+`` anything else you'd like to add or modify?
     <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" alt="Power BI" width="40" height="40"/>
     </a>
