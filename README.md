@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samuel Alves</h1>
 <h3 align="center">A passionate Data Analyst and Data Engineer</h3>
 
-- 🔭 I’m currently studying **Data Analytics and Data Science**
+- 🔭 I’m currently studying **Data Analytics and Data Engineer**
 
 - 📝 I regularly write articles on https://medium.com/@samuelalvesribeiro111
 
