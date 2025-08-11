@@ -21,13 +21,6 @@ My name is Samuel, I'm 25 years old and I'm from Sarandi-PR. I have a degree in 
             src="https://img.shields.io/badge/MEDIUM-2E2E2E?style=for-the-badge&logo=linkedin&logoColor=white)]("https://medium.com/@samuelalvesribeiro111" alt="Samuel Alves LinkedIn" height="28" width="80"
         />
     </a> 
-    <a href="https://github.com/SamuelA-R?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/SamuelA-R?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
     <a href="https://github.com/SamuelA-R?tab=followers">
         <img 
             alt="Seguidores" 
