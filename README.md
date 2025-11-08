@@ -4,7 +4,7 @@
 
 Me chamo Samuel, tenho 26 anos. Sou formado em economia e apaixonado por dados e resolver problemas complexos. Atualmente, estou cursando pós-graduação em engenharia de dados e, também, curso inglês e outros cursos de estudo por fora. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu medium "[Perfil Medium](https://medium.com/@samuelalvesribeiro111)", onde escrevo sobre meus aprendizados, e também através do linkedin "[Perfil Linkedin](https://www.linkedin.com/in/samuel-alves-ribeiro-017960246/)".
 
-My name is Samuel, I'm 25 years old and I'm from Sarandi-PR. I have a degree in Economics and I'm passionate about data and solving complex problems. Currently, I'm pursuing a postgraduate degree in Data Engineering and also studying English. I'm passionate about technology and share my knowledge through my Medium "[Medium profile](https://medium.com/@samuelalvesribeiro111)", where I write about my learnings, and also through LinkedIn "[Linkedin profile](https://www.linkedin.com/in/samuel-alves-ribeiro-017960246/)",
+My name is Samuel, I'm 26 years old and I'm from Sarandi-PR. I have a degree in Economics and I'm passionate about data and solving complex problems. Currently, I'm pursuing a postgraduate degree in Data Engineering and also studying English. I'm passionate about technology and share my knowledge through my Medium "[Medium profile](https://medium.com/@samuelalvesribeiro111)", where I write about my learnings, and also through LinkedIn "[Linkedin profile](https://www.linkedin.com/in/samuel-alves-ribeiro-017960246/)",
 <p align="left">
         </a> 
     <a href="https://www.linkedin.com/in/samuel-alves-ribeiro-017960246/">
