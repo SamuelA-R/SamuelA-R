@@ -4,7 +4,7 @@
 
 Me chamo Samuel, tenho 26 anos. Sou formado em economia e apaixonado por dados e resolver problemas complexos. Além disso, sou pós-graduação em engenharia de dados e, também, curso inglês e outros cursos de estudo por fora. Sou apaixonado por tecnologia e estou constantemente aprendendo e sempre em busca de conhecimento.
 
-My name is Samuel, I'm 26 years old. I have a degree in Economics and I'm passionate about data and solving complex problems. Additionally, I hold a postgraduate degree in Data Engineering, and I'm also studying English and taking other courses on the side. I am passionate about technology, constantly learning, and always seeking new knowledge.,
+My name is Samuel, I'm 26 years old. I have a degree in Economics and I'm passionate about data and solving complex problems. Additionally, I hold a postgraduate degree in Data Engineering, and I'm also studying English and taking other courses on the side. I am passionate about technology, constantly learning, and always seeking new knowledge.
 <p align="left">
         </a> 
     <a href="https://www.linkedin.com/in/samuel-alves-ribeiro-017960246/">
